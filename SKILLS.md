@@ -42,19 +42,37 @@
 | 🟦 support vector method             | 🟩 Probability                  | 🟩 MATLAB                 |
 | 🟩 decision trees      | 🟩 Linear Algebra               | 🟩 Database Management      |
 | 🟩 random forest              | 🟩 Derivatives                  | 🟩 Data Visualization        |
-| 🟩 k-nearest neighbors           | 🟩 gradients                    | 🟩 Time series           |
-| 🟦 naive bayes classifier     | 🟩 Sigmoid function             | 🟩 3-D Plots    |
-| 🟩 k-means      | 🟩 Logit function               | 🟩 NumPy          |
+| 🟩 Principal Component Analysis           | 🟩 gradients                    | 🟩 Time series           |
+| 🟩 K-Nearest Neighborsr     | 🟩 Sigmoid function             | 🟩 3-D Plots    |
+| 🟩 K-Means Clustering      | 🟩 Logit function               | 🟩 NumPy          |
 | 🟦 deep learning            | 🟩 ReLU function                | 🟩 scikit-learn           |
-| 🟦 neural networks        | 🟩 Cost function                | 🟩 cleaning         |
+| 🟦 Long Short-Term Memory       | 🟩 Cost function                | 🟩 cleaning         |
 | 🟩 binary classifiers | 🟩 Plotting of functions        | 🟩  missing values            |
-| 🟩 overfitting  | 🟩 underfitting                       | 🟩 imputation           |
-| 🟦 Asynchronous Queue  | 🟩 Geometry               | 🟩  categorical features           |
-| ⬜ Future              | 🟩 Coordinates                    | 🟩 dividing the dataset             |
-| ⬜ Deferred            | 🟩 Scale                   | v Keras                   |
-| 🟦 Observer            | 🟩 normalization                   | 🟩 TensorFlow               |
-| 🟦 Observer            | 🟩 overfitting                   |🟩 development AWS           |
-| 🟦 Observer            | 🟩 normalization                   |                           |
+| 🟩 Gradient Boosting  | 🟩 underfitting                       | 🟩 imputation           |
+| 🟦 Convolutional Neural Networks  | 🟩 Geometry               | 🟩  categorical features           |
+| ⬜ Recurrent Neural Networks              | 🟩 Coordinates                    | 🟩 dividing the dataset             |
+| ⬜ Generative Adversarial Networks            | 🟩 Scale                   | v Keras                   |
+| 🟩 Q-Learning            | 🟩 normalization                   | 🟩 TensorFlow               |
+| 🟦 Reinforcement Learning            | 🟩 overfitting                   |🟩 development AWS           |
+| 🟩 Time Series Analysis            | 🟩 Cross-Validation                   |   Big Data                        |
+| 🟦  Survival Analysis            | 🟩 Regularization                   |      Pandas                     |
+| 🟦 Recommender Systems            | 🟩 normalization                   |   Statistical Modeling                        |
+| 🟩 Bagging            |                   |   🟩Seaborn                        |
+| 🟩 Boosting            |                    |  🟩 Plotly                        |
+| 🟩 Feature Engineering            |                   |   🟩Matplotlib                        |
+| 🟦  Isomap            |                    |   🟩Seaborn                        |
+|                        |                    |    🟩Anomaly Detection                        |
+|                        |                    |   🟩 Model Selection                       |
+|                        |                   |    🟩 Hyperparameter Optimization                      |
+|                        |                  |     🟩Feature Selection                      |
+|                        |                   |    🟩 Hyperparameter Optimization                      |
+|                        |                   |     🟩 Dimensionality Reduction                      |
+|                        |                   |     🟩 t-SNE                      |
+|                        |                   |     PCA                      |
+|                        |                    |      LDA                     |
+|                        |                    |     🟩 GPT-2                     |
+|                         |                    |      🟩GPT-3                     |
+|                        |                  |                          |
 
 
 ## Multi-paradigm programming
