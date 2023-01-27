@@ -60,23 +60,23 @@
 
 ## Data science
 
-| Async contracts         | Theory                          | Techniques               |
+| Machine Learning         | Theory                          | Techniques               |
 |-------------------------|---------------------------------|--------------------------|
-| 🟦 Callback-last       | 🟩 Multivariate Calculus        | 🟩 Python      |
-| 🟦 Error-first         | 🟩 Statistics                   | 🟩 SQL    |
-| 🟦 Promise             | 🟩 Probability                  | 🟩 MATLAB                 |
-| 🟦 Async function      | 🟩 Linear Algebra               | 🟦 Database Management      |
-| 🟦 await               | 🟩 Derivatives                  | 🟦 Data Visualization        |
-| 🟦 Generator           | 🟩 gradients                    | 🟦 Time series           |
-| 🟦 Async Generator     | 🟩 Sigmoid function             | 🟦 Promise.allSettled    |
-| 🟦 Async Iterator      | 🟩 Logit function               | 🟦 Promise.race          |
-| 🟦 Thenable            | 🟩 ReLU function                | 🟦 Promise.any           |
-| 🟦 EventEmitter        | 🟩 Cost function                | ⬜ Web Locks API         |
-| ⬜ Cancelable callback | 🟩 Plotting of functions        | ⬜ Async Pool            |
-| ⬜ Cancelable Promise  | 🟩 Python                       | ⬜ Thread Pool           |
-| 🟦 Asynchronous Queue  | 🟦 Race conditions              | 🟦 callbackify           |
-| ⬜ Future              | 🟦 Dead locks                   | 🟦 promisify             |
-| ⬜ Deferred            | 🟦 Live locks                   | ⬜ IPC                   |
+| 🟦 perceptron       | 🟩 Multivariate Calculus        | 🟩 Python      |
+| 🟦 logistic regression        | 🟩 Statistics                   | 🟩 SQL    |
+| 🟦 support vector method             | 🟩 Probability                  | 🟩 MATLAB                 |
+| 🟦 decision trees      | 🟩 Linear Algebra               | 🟩 Database Management      |
+| 🟦 random forest              | 🟩 Derivatives                  | 🟩 Data Visualization        |
+| 🟦 k-nearest neighbors           | 🟩 gradients                    | 🟩 Time series           |
+| 🟦 naive bayes classifier     | 🟩 Sigmoid function             | 🟦 3-D Plots    |
+| 🟦 Async Iterator      | 🟩 Logit function               | 🟦 NumPy          |
+| 🟦 Thenable            | 🟩 ReLU function                | 🟦 scikit-learn           |
+| 🟦 EventEmitter        | 🟩 Cost function                | ⬜ cleaning         |
+| ⬜ Cancelable callback | 🟩 Plotting of functions        | ⬜  missing values            |
+| ⬜ Cancelable Promise  | 🟩 Python                       | ⬜ imputation           |
+| 🟦 Asynchronous Queue  | 🟦 Geometry               | 🟦 callbackify           |
+| ⬜ Future              | 🟦 Coordinates                    | 🟦 promisify             |
+| ⬜ Deferred            | 🟦 Scale                   | ⬜ IPC                   |
 | 🟦 Observer            | ⬜ Actor Model                  |                           |
 
 
