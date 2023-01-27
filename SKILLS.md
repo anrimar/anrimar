@@ -41,13 +41,13 @@
 | 🟩 Structured programming      | 🟩 Static method      | ⬜ Immutable state   |                          |
 | 🟩 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
 | 🟩 Functional programming      | 🟩 Async method       | 🟩 Linked list       |                          |
-| 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟦 Doubly list       |                          |
-| 🟩 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
-| ⬜ Object-based programming    | 🟩 Private fields     | 🟦 Circular list     |                          |
+| 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
+| 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     |                          |
+| ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     |                          |
 | 🟩 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
 | 🟩 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
 | 🟩Asyncronous programming      | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
+| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟩 Functional object |                          |
 | ⬜ Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟩 Generator         |                          |
 | 🟩 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
@@ -56,6 +56,30 @@
 | ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
 |                                | ⬜ Reflection         |                      |                          |
+
+
+## Data science
+
+| Async contracts         | Theory                          | Techniques               |
+|-------------------------|---------------------------------|--------------------------|
+| 🟦 Callback-last       | 🟩 Multivariate Calculus        | 🟩 Python      |
+| 🟦 Error-first         | 🟩 Statistics                   | 🟩 SQL    |
+| 🟦 Promise             | 🟩 Probability                  | 🟩 MATLAB                 |
+| 🟦 Async function      | 🟩 Linear Algebra               | 🟦 Database Management      |
+| 🟦 await               | 🟩 Derivatives                  | 🟦 Data Visualization        |
+| 🟦 Generator           | 🟩 gradients                    | 🟦 Time series           |
+| 🟦 Async Generator     | 🟩 Sigmoid function             | 🟦 Promise.allSettled    |
+| 🟦 Async Iterator      | 🟩 Logit function               | 🟦 Promise.race          |
+| 🟦 Thenable            | 🟩 ReLU function                | 🟦 Promise.any           |
+| 🟦 EventEmitter        | 🟩 Cost function                | ⬜ Web Locks API         |
+| ⬜ Cancelable callback | 🟩 Plotting of functions        | ⬜ Async Pool            |
+| ⬜ Cancelable Promise  | 🟩 Python                       | ⬜ Thread Pool           |
+| 🟦 Asynchronous Queue  | 🟦 Race conditions              | 🟦 callbackify           |
+| ⬜ Future              | 🟦 Dead locks                   | 🟦 promisify             |
+| ⬜ Deferred            | 🟦 Live locks                   | ⬜ IPC                   |
+| 🟦 Observer            | ⬜ Actor Model                  |                           |
+
+
 
 ## Asynchronous programming
 
