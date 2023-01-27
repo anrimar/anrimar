@@ -32,6 +32,31 @@
 | 🟨 ...rest           |                       |                        | 🟩 undefined        | 🟨 npm               |
 | 🟩 typeof            |                       |                        | 🟩 null             |                      |
 
+
+## Data science
+
+| Machine Learning         | Theory                          | Techniques               |
+|-------------------------|---------------------------------|--------------------------|
+| 🟩 perceptron       | 🟩 Multivariate Calculus        | 🟩 Python      |
+| 🟩 logistic regression        | 🟩 Statistics                   | 🟩 SQL    |
+| 🟦 support vector method             | 🟩 Probability                  | 🟩 MATLAB                 |
+| 🟩 decision trees      | 🟩 Linear Algebra               | 🟩 Database Management      |
+| 🟩 random forest              | 🟩 Derivatives                  | 🟩 Data Visualization        |
+| 🟩 k-nearest neighbors           | 🟩 gradients                    | 🟩 Time series           |
+| 🟦 naive bayes classifier     | 🟩 Sigmoid function             | 🟩 3-D Plots    |
+| 🟩 k-means      | 🟩 Logit function               | 🟩 NumPy          |
+| 🟦 deep learning            | 🟩 ReLU function                | 🟩 scikit-learn           |
+| 🟦 neural networks        | 🟩 Cost function                | 🟩 cleaning         |
+| 🟩 binary classifiers | 🟩 Plotting of functions        | 🟩  missing values            |
+| 🟩 overfitting  | 🟩 underfitting                       | 🟩 imputation           |
+| 🟦 Asynchronous Queue  | 🟩 Geometry               | 🟩  categorical features           |
+| ⬜ Future              | 🟩 Coordinates                    | 🟩 dividing the dataset             |
+| ⬜ Deferred            | 🟩 Scale                   | v Keras                   |
+| 🟦 Observer            | 🟩 normalization                   | 🟩 TensorFlow               |
+| 🟦 Observer            | 🟩 overfitting                   |🟩 development AWS           |
+| 🟦 Observer            | 🟩 normalization                   |                           |
+
+
 ## Multi-paradigm programming
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
@@ -57,27 +82,6 @@
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
 |                                | ⬜ Reflection         |                      |                          |
 
-
-## Data science
-
-| Machine Learning         | Theory                          | Techniques               |
-|-------------------------|---------------------------------|--------------------------|
-| 🟦 perceptron       | 🟩 Multivariate Calculus        | 🟩 Python      |
-| 🟦 logistic regression        | 🟩 Statistics                   | 🟩 SQL    |
-| 🟦 support vector method             | 🟩 Probability                  | 🟩 MATLAB                 |
-| 🟦 decision trees      | 🟩 Linear Algebra               | 🟩 Database Management      |
-| 🟦 random forest              | 🟩 Derivatives                  | 🟩 Data Visualization        |
-| 🟦 k-nearest neighbors           | 🟩 gradients                    | 🟩 Time series           |
-| 🟦 naive bayes classifier     | 🟩 Sigmoid function             | 🟦 3-D Plots    |
-| 🟦 Async Iterator      | 🟩 Logit function               | 🟦 NumPy          |
-| 🟦 Thenable            | 🟩 ReLU function                | 🟦 scikit-learn           |
-| 🟦 EventEmitter        | 🟩 Cost function                | ⬜ cleaning         |
-| ⬜ Cancelable callback | 🟩 Plotting of functions        | ⬜  missing values            |
-| ⬜ Cancelable Promise  | 🟩 Python                       | ⬜ imputation           |
-| 🟦 Asynchronous Queue  | 🟦 Geometry               | 🟦 callbackify           |
-| ⬜ Future              | 🟦 Coordinates                    | 🟦 promisify             |
-| ⬜ Deferred            | 🟦 Scale                   | ⬜ IPC                   |
-| 🟦 Observer            | ⬜ Actor Model                  |                           |
 
 
 
