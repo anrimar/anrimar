@@ -45,8 +45,8 @@
 | 🟩 Principal Component Analysis  | 🟩 gradients                    | 🟩 Time series           |
 | 🟩 K-Nearest Neighborsr           | 🟩 Sigmoid function             | 🟩 3-D Plots    |
 | 🟩 K-Means Clustering             | 🟩 Logit function               | 🟩 NumPy          |
-| 🟦 deep learning                 | 🟩 ReLU function                | 🟩 scikit-learn   |
-| 🟦 Long Short-Term Memory        | 🟩 Cost function                | 🟩 cleaning         |
+| 🟩 deep learning                 | 🟩 ReLU function                | 🟩 scikit-learn   |
+| 🟩 Long Short-Term Memory        | 🟩 Cost function                | 🟩 cleaning         |
 | 🟩 binary classifiers              | 🟩 Plotting of functions       | 🟩  missing values            |
 | 🟩 Gradient Boosting             | 🟩 underfitting                 | 🟩 imputation           |
 | 🟦 Convolutional Neural Networks  | 🟩 Geometry                     | 🟩  categorical features |
