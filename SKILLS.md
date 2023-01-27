@@ -51,12 +51,12 @@
 | 🟩 Gradient Boosting  | 🟩 underfitting                       | 🟩 imputation           |
 | 🟦 Convolutional Neural Networks  | 🟩 Geometry               | 🟩  categorical features           |
 | ⬜ Recurrent Neural Networks              | 🟩 Coordinates                    | 🟩 dividing the dataset             |
-| ⬜ Generative Adversarial Networks            | 🟩 Scale                   | v Keras                   |
+| ⬜ Generative Adversarial Networks            | 🟩 Scale                   |🟩 Keras                   |
 | 🟩 Q-Learning            | 🟩 normalization                   | 🟩 TensorFlow               |
 | 🟦 Reinforcement Learning            | 🟩 overfitting                   |🟩 development AWS           |
-| 🟩 Time Series Analysis            | 🟩 Cross-Validation                   |   Big Data                        |
-| 🟦  Survival Analysis            | 🟩 Regularization                   |      Pandas                     |
-| 🟦 Recommender Systems            | 🟩 normalization                   |   Statistical Modeling                        |
+| 🟩 Time Series Analysis            | 🟩 Cross-Validation                   | 🟩  Big Data                        |
+| 🟦  Survival Analysis            | 🟩 Regularization                   |   🟩  Pandas                     |
+| 🟦 Recommender Systems            | 🟩 normalization                   | 🟩 Statistical Modeling                        |
 | 🟩 Bagging            |                   |   🟩Seaborn                        |
 | 🟩 Boosting            |                    |  🟩 Plotly                        |
 | 🟩 Feature Engineering            |                   |   🟩Matplotlib                        |
