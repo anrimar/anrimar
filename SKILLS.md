@@ -37,29 +37,29 @@
 
 | Machine Learning         | Theory                          | Techniques               |
 |-------------------------|---------------------------------|--------------------------|
-| 🟩 perceptron       | 🟩 Multivariate Calculus        | 🟩 Python      |
-| 🟩 logistic regression        | 🟩 Statistics                   | 🟩 SQL    |
-| 🟦 support vector method             | 🟩 Probability                  | 🟩 MATLAB                 |
-| 🟩 decision trees      | 🟩 Linear Algebra               | 🟩 Database Management      |
-| 🟩 random forest              | 🟩 Derivatives                  | 🟩 Data Visualization        |
-| 🟩 Principal Component Analysis           | 🟩 gradients                    | 🟩 Time series           |
-| 🟩 K-Nearest Neighborsr     | 🟩 Sigmoid function             | 🟩 3-D Plots    |
-| 🟩 K-Means Clustering      | 🟩 Logit function               | 🟩 NumPy          |
-| 🟦 deep learning            | 🟩 ReLU function                | 🟩 scikit-learn           |
-| 🟦 Long Short-Term Memory       | 🟩 Cost function                | 🟩 cleaning         |
-| 🟩 binary classifiers | 🟩 Plotting of functions        | 🟩  missing values            |
-| 🟩 Gradient Boosting  | 🟩 underfitting                       | 🟩 imputation           |
-| 🟦 Convolutional Neural Networks  | 🟩 Geometry               | 🟩  categorical features           |
-| ⬜ Recurrent Neural Networks              | 🟩 Coordinates                    | 🟩 dividing the dataset             |
-| ⬜ Generative Adversarial Networks            | 🟩 Scale                   |🟩 Keras                   |
-| 🟩 Q-Learning            | 🟩 normalization                   | 🟩 TensorFlow               |
-| 🟦 Reinforcement Learning            | 🟩 overfitting                   |🟩 development AWS           |
-| 🟩 Time Series Analysis            | 🟩 Cross-Validation                   | 🟩  Big Data                        |
-| 🟦  Survival Analysis            | 🟩 Regularization                   |   🟩  Pandas                     |
+| 🟩 perceptron                    | 🟩 Multivariate Calculus        | 🟩 Python      |
+| 🟩 logistic regression           | 🟩 Statistics                   | 🟩 SQL    |
+| 🟦 support vector method          | 🟩 Probability                  | 🟩 MATLAB                 |
+| 🟩 decision trees                 | 🟩 Linear Algebra               | 🟩 Database Management     |
+| 🟩 random forest                  | 🟩 Derivatives                  | 🟩 Data Visualization   |
+| 🟩 Principal Component Analysis  | 🟩 gradients                    | 🟩 Time series           |
+| 🟩 K-Nearest Neighborsr           | 🟩 Sigmoid function             | 🟩 3-D Plots    |
+| 🟩 K-Means Clustering             | 🟩 Logit function               | 🟩 NumPy          |
+| 🟦 deep learning                 | 🟩 ReLU function                | 🟩 scikit-learn   |
+| 🟦 Long Short-Term Memory        | 🟩 Cost function                | 🟩 cleaning         |
+| 🟩 binary classifiers              | 🟩 Plotting of functions       | 🟩  missing values            |
+| 🟩 Gradient Boosting             | 🟩 underfitting                 | 🟩 imputation           |
+| 🟦 Convolutional Neural Networks  | 🟩 Geometry                     | 🟩  categorical features |
+| ⬜ Recurrent Neural Networks      | 🟩 Coordinates                  | 🟩 dividing the dataset  |
+| ⬜ Generative Adversarial Networks   | 🟩 Scale                       |🟩 Keras                |
+| 🟩 Q-Learning                        | 🟩  Mathematics                | 🟩 TensorFlow               |
+| 🟦 Reinforcement Learning            | 🟩 overfitting                  |🟩 development AWS           |
+| 🟩 Time Series Analysis            | 🟩 Cross-Validation               | 🟩  Big Data                        |
+| 🟦  Survival Analysis               | 🟩 Regularization                |   🟩  Pandas                     |
 | 🟦 Recommender Systems            | 🟩 normalization                   | 🟩 Statistical Modeling                        |
-| 🟩 Bagging            |                   |   🟩Seaborn                        |
+| 🟩 Bagging                       |                   |   🟩Seaborn                        |
 | 🟩 Boosting            |                    |  🟩 Plotly                        |
-| 🟩 Feature Engineering            |                   |   🟩Matplotlib                        |
+| 🟩 Feature Engineering   |                   |   🟩Matplotlib                        |
 | 🟦  Isomap            |                    |   🟩Seaborn                        |
 |                        |                    |    🟩Anomaly Detection                        |
 |                        |                    |   🟩 Model Selection                       |
