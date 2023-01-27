@@ -68,8 +68,8 @@
 |                        |                   |    🟩 Hyperparameter Optimization                      |
 |                        |                   |     🟩 Dimensionality Reduction                      |
 |                        |                   |     🟩 t-SNE                      |
-|                        |                   |     PCA                      |
-|                        |                    |      LDA                     |
+|                        |                   |    🟦 PCA                      |
+|                        |                    |    🟦  LDA                     |
 |                        |                    |     🟩 GPT-2                     |
 |                         |                    |      🟩GPT-3                     |
 |                        |                  |                          |
