@@ -4,5 +4,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: Python</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@clymet](https://telegram.me/clymet)</code>
 <code>📫 [your-email](mailto:your-email)</code>
